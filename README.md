@@ -2,6 +2,11 @@
 
 **Aspiring AI & Software Engineer | Machine Learning | Cloud Infrastructure | Automation**
 
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ayubgheit/)
+
+
 I'm a technology-focused student with hands-on experience in software development, infrastructure engineering, networking and cybersecurity, and a growing interest in artificial intelligence and machine learning.
 
 I enjoy understanding how complex systems work, building practical solutions and exploring how intelligent software can solve real-world problems.
