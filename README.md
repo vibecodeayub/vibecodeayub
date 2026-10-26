@@ -2,11 +2,6 @@
 
 **Aspiring AI & Software Engineer | Machine Learning | Cloud Infrastructure | Automation**
 
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/ayubgheit/)
-
-
 I'm a technology-focused student with hands-on experience in software development, infrastructure engineering, networking and cybersecurity, and a growing interest in artificial intelligence and machine learning.
 
 I enjoy understanding how complex systems work, building practical solutions and exploring how intelligent software can solve real-world problems.
@@ -80,7 +75,7 @@ My goal is to combine strong software engineering fundamentals with practical AI
 
 I'm interested in collaborating on technical projects, learning from other engineers and contributing to practical software and AI applications.
 
-**GitHub:** [github.com/vibecodeayub](https://github.com/vibecodeayub)
+[LinkedIn](https://www.linkedin.com/in/ayubgheit/)
 
 ---
 
