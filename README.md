@@ -34,25 +34,36 @@ I'm currently working towards a technology degree apprenticeship, with a particu
 
 Designing and managing a personal homelab environment to gain practical experience in infrastructure architecture, Linux systems administration, virtualisation and networking.
 
+[School Based Server](https://www.linkedin.com/feed/update/urn:li:activity:7509307990303412225/)
+
 **Key areas:** Proxmox VE, Docker, Linux, networking, remote access and troubleshooting.
 
 ### Local AI & Intelligent Automation
 
 Exploring self-hosted AI technologies and automation workflows, with an interest in building intelligent applications that integrate with existing software and infrastructure.
 
+[n8n Workflow Automation & Pipelining](https://www.linkedin.com/feed/update/urn:li:activity:7480742770387783681/)
+
 **Key areas:** Local AI, model inference, workflow automation and system integration.
 
-### Web Development & Business Solutions
+### Networking & Infrastructure Projects
 
-Developing and deploying digital solutions for real businesses, gaining experience in translating requirements into functional software and delivering applications for practical use.
-
-**Key areas:** Web development, deployment, requirements analysis and problem-solving.
-
+[Router-to-Wireless Access Point Conversion](https://www.linkedin.com/feed/update/urn:li:activity:7518764852891336704/) — Repurposing a router into a wireless access point, exploring DHCP, IP addressing and network troubleshooting.
+ 
 ### Raspberry Pi & Linux Infrastructure
 
 Using Raspberry Pi hardware to explore lightweight infrastructure, Linux administration, networking and remote system management.
 
+[Raspberry Pi Cluster](https://www.linkedin.com/feed/update/urn:li:activity:7504266711857225729/)
+[Bruce Firmware ESP Project](https://www.linkedin.com/feed/update/urn:li:activity:7510439062202396673/)
+[Simple SPI connections to OLED Display](https://www.linkedin.com/feed/update/urn:li:activity:7501744239714799616/)
+
 **Key areas:** Raspberry Pi 5, Debian, SSH and Tailscale.
+
+### Extracurriculars
+
+[Open Evening for Youth Students](https://www.linkedin.com/feed/update/urn:li:activity:7511416477779087360/)
+[Computing Society Lead](https://www.linkedin.com/feed/update/urn:li:activity:7511764949245911040/)
 
 ##  Currently Learning
 
