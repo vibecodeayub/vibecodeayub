@@ -1,74 +1,99 @@
-Hi, I’m Ayub 👋
 
-Aspiring AI Platform & Software Engineer | Infrastructure Automation | Local AI | Linux & Cloud Technologies
+# Hi, I'm Ayub 
 
-I’m an A-level student interested in building reliable software, automated systems and infrastructure that make technology more useful to people.
+### Aspiring AI Platform & Software Engineer | MLOps | Infrastructure Automation | Linux & Cloud
 
-My main interests are AI engineering, MLOps, backend development and infrastructure automation. I particularly enjoy connecting different technologies, troubleshooting systems and turning repetitive processes into automated workflows.
+I'm an A-level student interested in building reliable software, automated systems and infrastructure that make technology more useful to people.
 
-Alongside my studies, I build and maintain a personal homelab, work with Linux and virtualisation, and develop practical automation projects.
+My main interests are **AI engineering, MLOps, backend development and infrastructure automation**. I enjoy connecting technologies, troubleshooting complex systems and replacing repetitive processes with practical automation.
 
-Featured Projects
+Alongside my studies, I build and maintain a personal homelab, work with Linux and virtualisation, and develop AI-powered automation projects.
 
-AI-Powered Job Discovery Automation
+---
 
-Built an automated job-discovery workflow using n8n, JavaScript and a locally hosted Ollama model to identify part-time opportunities relevant to students under 18.
+## Featured Projects
 
-The workflow:
+### AI-Powered Job Discovery Automation
 
-* Collects listings from multiple online sources through HTTP requests.
-* Applies JavaScript-based screening before AI processing.
-* Uses a local language model for additional filtering and formatting.
-* Validates AI-selected listings using further JavaScript rules.
-* Distributes relevant opportunities through automated emails.
-* Includes fallback processing when the local AI service is unavailable.
+Developed an automated job-discovery workflow using **n8n, JavaScript and a locally hosted Ollama model** to identify suitable part-time opportunities for students under 18.
 
-Focus: Workflow orchestration, API integration, AI inference, validation and fault tolerance.
+**How it works:**
+- Retrieves job listings from multiple sources using HTTP requests.
+- Applies JavaScript-based screening before AI processing.
+- Uses a locally hosted language model for additional filtering and formatting.
+- Validates AI-selected listings with a second JavaScript filtering stage.
+- Distributes relevant opportunities through automated emails.
+- Uses fallback processing when the local AI service is unavailable.
 
-Homelab & Self-Hosted Infrastructure
+**Technologies:** `n8n` `JavaScript` `Ollama` `HTTP APIs` `SMTP`
 
-Built and maintain a personal homelab using Proxmox VE, Debian, Docker, Portainer and Tailscale.
+**Engineering focus:** Workflow orchestration, API integration, AI inference, validation and fault tolerance.
 
-This environment provides hands-on experience with virtual machines, containerised services, Linux administration, networking, remote access and troubleshooting.
+### Homelab & Self-Hosted Infrastructure
 
-I’ve also explored self-hosted applications such as Immich and network services.
+Built and maintain a personal homelab using **Proxmox VE, Debian, Docker, Portainer and Tailscale**.
 
-Focus: Infrastructure engineering, virtualisation, networking and systems administration.
+My homelab provides practical experience with:
+- Virtual machines and containerised services.
+- Linux systems administration.
+- Networking and secure remote access.
+- Self-hosted applications, including Immich.
+- Infrastructure troubleshooting and maintenance.
 
-Raspberry Pi & Embedded Systems
+**Technologies:** `Proxmox VE` `Debian` `Docker` `Portainer` `Tailscale` `Immich`
 
-Experimenting with Raspberry Pi and ESP32 hardware to develop practical knowledge of Linux, networking, embedded systems and hardware-software integration.
+**Engineering focus:** Infrastructure engineering, virtualisation, networking and systems administration.
 
-Projects include lightweight infrastructure, wireless networking, SPI-connected displays and microcontroller development.
+### Raspberry Pi & Embedded Systems
 
-Focus: Linux, Raspberry Pi, ESP32, networking and electronics.
+Experimenting with **Raspberry Pi and ESP32 hardware** to develop practical skills in Linux, networking, embedded systems and hardware-software integration.
 
-Technical Skills
+Projects include:
+- Raspberry Pi-based Linux infrastructure.
+- Router-to-wireless-access-point conversion.
+- ESP32 development using Arduino IDE.
+- SPI-connected OLED display experiments.
+- Remote administration through SSH and Tailscale.
 
-Area	Technologies
-Infrastructure	Proxmox VE, Linux, Debian, Ubuntu, Docker, Portainer
-Networking	TCP/IP, SSH, Tailscale, remote access
-Automation	n8n, JavaScript, HTTP APIs, workflow orchestration
-AI Integration	Ollama, local inference, LLM-based filtering
-Development Tools	Git, GitHub
-Hardware	Raspberry Pi, ESP32, Arduino IDE
+**Technologies:** `Raspberry Pi 5` `ESP32` `Arduino IDE` `Linux` `SSH` `SPI`
 
-Currently Learning
+**Engineering focus:** Embedded systems, networking, Linux and electronics.
 
-I’m developing my knowledge of:
+---
 
-* Python for backend development and automation
-* Machine learning fundamentals and model evaluation
-* Docker-based deployment and AI inference services
-* Cloud infrastructure and CI/CD
-* Software testing, monitoring and system reliability
+## Technical Skills
 
-Career Goals
+| Area | Technologies & Tools |
+|---|---|
+| **Infrastructure & Virtualisation** | Proxmox VE, Linux, Debian, Ubuntu, Docker, Portainer |
+| **Networking & Security** | TCP/IP, SSH, Tailscale, secure remote access |
+| **AI & Automation** | Ollama, n8n, local LLM inference, workflow automation |
+| **Software & Integration** | JavaScript, HTTP APIs, Git, GitHub |
+| **Hardware & Engineering** | Raspberry Pi 5, ESP32, Arduino IDE, LabVIEW |
 
-I’m working towards a 2028 technology degree apprenticeship, with a long-term interest in MLOps and AI platform engineering.
+---
 
-My goal is to build the software and infrastructure that allow intelligent systems to operate reliably, securely and at scale.
+## Currently Learning
 
-Connect
+- **Python:** Backend development, scripting and automation.
+- **Machine Learning:** Model fundamentals, training and evaluation.
+- **MLOps:** Model deployment, inference pipelines and monitoring.
+- **Cloud & DevOps:** Containerisation, CI/CD and cloud infrastructure.
+- **Software Engineering:** Testing, architecture and system reliability.
 
-LinkedIn
+---
+
+## Career Goals
+
+I'm working towards a **2028 technology degree apprenticeship**, with a long-term interest in **MLOps and AI platform engineering**.
+
+My goal is to combine software engineering, infrastructure and practical AI knowledge to **build reliable intelligent systems that reduce repetitive work and help people solve real-world problems**.
+
+---
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/ayubgheit](https://www.linkedin.com/in/ayubgheit/)
+- **GitHub:** [github.com/ayubdvc](https://github.com/ayubdvc)
+
+*Building, experimenting and continuously improving my engineering skills.*
